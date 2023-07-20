@@ -1,0 +1,8 @@
+D:\C# Project\Learn_\Learn_\bin\Debug\Learn_.exe.config
+D:\C# Project\Learn_\Learn_\bin\Debug\Learn_.exe
+D:\C# Project\Learn_\Learn_\bin\Debug\Learn_.pdb
+D:\C# Project\Learn_\Learn_\obj\Debug\Learn_.csproj.AssemblyReference.cache
+D:\C# Project\Learn_\Learn_\obj\Debug\Learn_.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\Learn_\Learn_\obj\Debug\Learn_.csproj.CoreCompileInputs.cache
+D:\C# Project\Learn_\Learn_\obj\Debug\Learn_.exe
+D:\C# Project\Learn_\Learn_\obj\Debug\Learn_.pdb
